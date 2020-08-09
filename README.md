@@ -2,6 +2,8 @@ gojwk
 =====
 Golang implementation of JWK validation
 
+Fork from [https://github.com/mendsley/gojws](https://github.com/mendsley/gojws)
+
 Contact
 -------
 [@\_boblan\_](https://twitter.com/#!/_boblan_)  
