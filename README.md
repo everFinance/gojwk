@@ -14,7 +14,7 @@ titled LICENSE in the project root folder.
 ## Using
 
 Simply add the following import
-`import "github.com/goarweave/gojwk"`
+`import "github.com/everFinance/gojwk"`
 
 ## Documentation
 
