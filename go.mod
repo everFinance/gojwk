@@ -1,3 +1,3 @@
-module github.com/everFinace/gojwk
+module github.com/everFinance/gojwk
 
 go 1.14
